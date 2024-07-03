@@ -1,0 +1,35 @@
+header{
+    height: 500px;
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    padding: 50px;
+    font-size: 50px;
+    background-image: url(https://www.joyfreak.com/attachments/rust-jpg.3892/);
+    background-size: cover;
+    background-position-y:center ;
+}
+
+body{
+    margin: 0px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    padding: 20px;
+}
+
+.block1{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.block2{
+    text-align: center;
+}
